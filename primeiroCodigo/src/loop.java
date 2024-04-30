@@ -13,6 +13,7 @@ public class loop {
             mediaAvaliacao += nota;  // == mediaAvaliacao = mediaAvaliacao + nota
         }
 
-        
-        double avaliacao =
+        System.out.println(String.format("Media da nota: %.1f", mediaAvaliacao/3));
+}
+
 }
